@@ -47,6 +47,8 @@ Creating text classification model: extraction of the critique and promises corp
 ## Preliminary results
 Extraction of the topics and main terms on all corpora through network mapping, text classification model testing - work in progress.
 The network represents the links (co-occurrence in the text) between the terms extracted from all corpora. The node's colors are allocated by the Louvain Method of community detection. Group labels are manually assigned based on the main topic of the words in the community.
+ 
+![Terms Semantic Network](https://github.com/yuliianikolaenko/SHAPING_AI/blob/main/terms_network.jpg) 
 
 ## Main challenges
 <li>Working with big text data: optimization of the analysis, experiment with ram and data pre-processing techniques;
