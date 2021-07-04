@@ -37,7 +37,7 @@ Creating text classification model: extraction of the critique and promises corp
  
 <code>data_wrangling.ipynb</code>: Python code with data preprocessing and features engineering
   
-<code>data_cleaning.ipynb</code>: Python code with text cleaning 
+<code>text_cleaning.ipynb</code>: Python code with text cleaning 
  
 <code>network_shaping_ai.gephi</code>: output network dataframe 
   
